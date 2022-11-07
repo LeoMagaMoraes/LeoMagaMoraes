@@ -1,16 +1,24 @@
-### Hi there 👋
+### Olá, me chamo Leonardo Magalhães e seja vindo ao meu perfil! 🖖
 
-<!--
-**LeoMagaMoraes/LeoMagaMoraes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 💡 Atualmente aperfeiçoando conhecimentos de Front-End.
 
-Here are some ideas to get you started:
+<div align="center">
+  <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=LeoMagaMoraes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true%22/%3E
+  <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeoMagaMoraes&layout=compact&langs_count=7&theme=dracula%22/%3E
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Linguagens ✅
+<p align="center">
+  <a href="https://skillicons.dev/%22%3E
+    <img src="https://skillicons.dev/icons?i=cpp,html,python,css,git"/>
+  </a>
+</p>
+
+## Social 👀
+ 
+<div> 
+  <a href="https://www.linkedin.com/in/leomagamoraes/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a> 
+
+</div>
