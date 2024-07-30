@@ -1,6 +1,6 @@
 ### Olá, me chamo Leonardo Magalhães e seja vindo ao meu perfil! 🖖
 
-- 💡 Atualmente aperfeiçoando conhecimentos de Front-End.
+- 💡 Sempre evoluindo.
 
 <div align="center">
   <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=LeoMagaMoraes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true%22/%3E
