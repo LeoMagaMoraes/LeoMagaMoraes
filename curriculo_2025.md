@@ -8,9 +8,10 @@
 ---
 
 ## 👤 Perfil Profissional  
-Estudante de **Ciência da Computação** com forte interesse em **tecnologia e segurança cibernética**.  
-Atualmente trabalho como **Analista de Service Desk Jr.**, tendo iniciado minha jornada como estagiário em 2023.  
+Estudante de **Ciência da Computação** com forte interesse em **tecnologia, segurança cibernética e Inteligência Artificial**.  
+Atualmente trabalho como **Analista de Suporte Jr.**, tendo iniciado minha jornada como estagiário em 2023.  
 Tenho facilidade de **adaptação** e **resolução de problemas**, estando sempre em busca de aprimoramento profissional e novos desafios.  
+Estudo IA e uso o **Claude** e o **Claude Code** no dia a dia para programar.  
 
 ---
 
@@ -39,6 +40,19 @@ Tenho facilidade de **adaptação** e **resolução de problemas**, estando semp
 
 ---
 
+## 🚀 Projetos  
+
+### 🔹 [Pet de Desktop](https://github.com/LeoMagaMoraes/clawd-desktop-pet)  
+📅 *2026*  
+- 🦀 Mascote de desktop estilo tamagotchi para Windows, em **Python** com **tkinter**  
+- 🤖 Integração com o **Claude Code** por hooks: o pet reage ao que o assistente está fazendo  
+- 🌦️ Clima em tempo real pela API **Open-Meteo**, com roupas e efeitos conforme o tempo  
+- 🐉 Sete pets com personalidades diferentes e progresso salvo separadamente  
+- ✅ Testes automatizados com **unittest**  
+- 🧠 Desenvolvido com o **Claude Code** como assistente de programação  
+
+---
+
 ## 🎓 Formação Acadêmica  
 
 - 🎓 **Bacharelado em Ciência da Computação** – UNIVALI (*2022 – Atual*)  
@@ -54,6 +68,7 @@ Tenho facilidade de **adaptação** e **resolução de problemas**, estando semp
 - 📚 Aprendizado contínuo  
 - 🐧 Terminal Linux  
 - 💻 Programação: Lua, Python, JavaScript, C++  
+- 🤖 Inteligência Artificial: Claude, Claude Code (programação assistida por IA)  
 - 🌐 HTML5, CSS3  
 - 📝 Pacote Office  
 - 🎨 Photoshop, Adobe Premiere, Vegas Pro  
@@ -93,9 +108,10 @@ Tenho facilidade de **adaptação** e **resolução de problemas**, estando semp
 ---
 
 ## 👤 Professional Profile  
-Computer Science student with strong interest in **technology and cybersecurity**.  
-Currently working as a **Junior Service Desk Analyst**, having started my journey as an intern in 2023.  
+Computer Science student with strong interest in **technology, cybersecurity, and Artificial Intelligence**.  
+Currently working as a **Junior Support Analyst**, having started my journey as an intern in 2023.  
 Skilled in **adaptability** and **problem-solving**, always seeking professional development and new challenges.  
+I study AI and use **Claude** and **Claude Code** every day to write code.  
 
 ---
 
@@ -124,6 +140,19 @@ Skilled in **adaptability** and **problem-solving**, always seeking professional
 
 ---
 
+## 🚀 Projects  
+
+### 🔹 [Desktop Pet](https://github.com/LeoMagaMoraes/clawd-desktop-pet)  
+📅 *2026*  
+- 🦀 Tamagotchi-style desktop pet for Windows, built in **Python** with **tkinter**  
+- 🤖 **Claude Code** integration through hooks: the pet reacts to what the assistant is doing  
+- 🌦️ Live weather from the **Open-Meteo** API, with outfits and effects based on the forecast  
+- 🐉 Seven pets with different personalities and separate saved progress  
+- ✅ Automated tests with **unittest**  
+- 🧠 Built with **Claude Code** as a coding assistant  
+
+---
+
 ## 🎓 Education  
 
 - 🎓 **Bachelor’s in Computer Science** – UNIVALI (*2022 – Present*)  
@@ -139,6 +168,7 @@ Skilled in **adaptability** and **problem-solving**, always seeking professional
 - 📚 Continuous learning  
 - 🐧 Linux terminal  
 - 💻 Programming: Lua, Python, JavaScript, C++  
+- 🤖 Artificial Intelligence: Claude, Claude Code (AI-assisted programming)  
 - 🌐 HTML5, CSS3  
 - 📝 Microsoft Office  
 - 🎨 Photoshop, Adobe Premiere, Vegas Pro  

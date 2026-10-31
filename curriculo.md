@@ -13,9 +13,10 @@
 ---
 
 ## 👤 Sobre Mim | About Me  
-🎓 Estudante de **Ciência da Computação** apaixonado por **tecnologia e segurança cibernética**.  
-💼 Atualmente, **Analista de Service Desk Jr.** na **Dígitro Tecnologia**.  
+🎓 Estudante de **Ciência da Computação** apaixonado por **tecnologia, segurança cibernética e Inteligência Artificial**.  
+💼 Atualmente, **Analista de Suporte Jr.** na **Dígitro Tecnologia**.  
 ⚡ Experiência em **suporte técnico, redes, VoIP, URAs e administração de sistemas**.  
+🤖 Estudando **IA** e usando o **Claude** e o **Claude Code** para programar.  
 🌍 Buscando sempre **novos desafios** e aprimoramento profissional.  
 
 ---
@@ -31,6 +32,19 @@
 - 📞 Monitoramento e manutenção de sistemas de telefonia | Telephony systems monitoring  
 - 📡 Suporte em PABXs, VoIP, URAs e telefonia analógica | Support in PABX, VoIP, IVR, analog  
 - 🔧 Administração de sistemas | System administration  
+
+---
+
+## 🚀 Projetos | Projects  
+
+### 🔹 [Pet de Desktop | Desktop Pet](https://github.com/LeoMagaMoraes/clawd-desktop-pet)  
+📅 *2026*  
+
+- 🦀 Mascote de desktop estilo tamagotchi em Python + tkinter | Tamagotchi-style desktop pet in Python + tkinter  
+- 🤖 Integração com o Claude Code por hooks | Claude Code integration through hooks  
+- 🌦️ Clima em tempo real pela API Open-Meteo | Live weather from the Open-Meteo API  
+- ✅ Testes automatizados com unittest | Automated tests with unittest  
+- 🧠 Desenvolvido com o Claude Code | Built with Claude Code  
 
 ---
 
@@ -51,9 +65,12 @@
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=claude&logoColor=white" />
 </p>
 
 - 💡 Suporte técnico e resolução de problemas | Technical support & troubleshooting  
+- 🤖 Programação assistida por IA (Claude, Claude Code) | AI-assisted programming  
 - 📚 Aprendizado contínuo | Continuous learning  
 - 🎨 Edição gráfica e audiovisual (Photoshop, Premiere, Vegas Pro)  
 - 📡 Análise de chamadas VoIP | VoIP call analysis  
