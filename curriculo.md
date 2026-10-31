@@ -46,6 +46,14 @@
 - ✅ Testes automatizados com unittest | Automated tests with unittest  
 - 🧠 Desenvolvido com o Claude Code | Built with Claude Code  
 
+### 🔹 [Pokédex Web](https://github.com/LeoMagaMoraes/PokedexWeb)  
+📅 *2026* · 🔗 [leomagamoraes.github.io/PokedexWeb](https://leomagamoraes.github.io/PokedexWeb/)  
+
+- 🔴 Pokédex interativa em HTML, CSS e JavaScript puro com a PokeAPI | Interactive Pokédex in plain HTML, CSS, and JavaScript with the PokeAPI  
+- 🔎 1025 Pokémons com busca, filtros e favoritos | 1025 Pokémon with search, filters, and favorites  
+- ⚔️ Comparação, times e simulador de batalha | Comparison, teams, and battle simulator  
+- ✅ Testes com Vitest e deploy no GitHub Pages | Tests with Vitest and GitHub Pages deployment  
+
 ---
 
 ## 🎓 Formação | Education  

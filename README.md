@@ -41,6 +41,13 @@ Estudando IA e usando assistentes de IA para programar:
 
 ---
 
+## 🚀 Projetos em Destaque
+
+- 🔴 **[Pokédex Web](https://github.com/LeoMagaMoraes/PokedexWeb)** ([acesse online](https://leomagamoraes.github.io/PokedexWeb/)): Pokédex interativa em HTML, CSS e JavaScript puro, consumindo a PokeAPI. Tem os 1025 Pokémons com busca, filtros, favoritos, comparação, montagem de times e simulador de batalha.
+- 🦀 **[Pet de Desktop](https://github.com/LeoMagaMoraes/clawd-desktop-pet)**: mascote de desktop estilo tamagotchi em Python, que reage ao Claude Code e muda conforme o clima.
+
+---
+
 ## 📊 Minhas Estatísticas no GitHub
 
 <div align="center">
@@ -113,6 +120,13 @@ Sinta-se à vontade para se conectar comigo!
   
   ---
   
+  ## 🚀 Featured Projects
+
+  - 🔴 **[Pokédex Web](https://github.com/LeoMagaMoraes/PokedexWeb)** ([try it online](https://leomagamoraes.github.io/PokedexWeb/)): interactive Pokédex in plain HTML, CSS, and JavaScript, powered by the PokeAPI. All 1025 Pokémon with search, filters, favorites, comparison, team building, and a battle simulator.
+  - 🦀 **[Desktop Pet](https://github.com/LeoMagaMoraes/clawd-desktop-pet)**: tamagotchi-style desktop pet in Python that reacts to Claude Code and changes with the weather.
+
+  ---
+
   ## 📊 My GitHub Stats
   
   <div align="center">

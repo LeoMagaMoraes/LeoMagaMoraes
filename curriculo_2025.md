@@ -51,6 +51,14 @@ Estudo IA e uso o **Claude** e o **Claude Code** no dia a dia para programar.
 - ✅ Testes automatizados com **unittest**  
 - 🧠 Desenvolvido com o **Claude Code** como assistente de programação  
 
+### 🔹 [Pokédex Web](https://github.com/LeoMagaMoraes/PokedexWeb)  
+📅 *2026* · 🔗 [leomagamoraes.github.io/PokedexWeb](https://leomagamoraes.github.io/PokedexWeb/)  
+- 🔴 Pokédex interativa em **HTML, CSS e JavaScript puro** (sem frameworks), consumindo a **PokeAPI**  
+- 🔎 Os 1025 Pokémons com busca ao vivo, filtros por geração e tipo, favoritos e capturados  
+- ⚔️ Comparação de até 6 Pokémons, montagem de times e simulador de batalha com tabela de efetividade de tipos  
+- 💾 Cache local, tema claro/escuro, layout responsivo e navegação por teclado  
+- ✅ Testes com **Vitest**, lint com **ESLint** e publicação no **GitHub Pages** por **GitHub Actions**  
+
 ---
 
 ## 🎓 Formação Acadêmica  
@@ -150,6 +158,14 @@ I study AI and use **Claude** and **Claude Code** every day to write code.
 - 🐉 Seven pets with different personalities and separate saved progress  
 - ✅ Automated tests with **unittest**  
 - 🧠 Built with **Claude Code** as a coding assistant  
+
+### 🔹 [Pokédex Web](https://github.com/LeoMagaMoraes/PokedexWeb)  
+📅 *2026* · 🔗 [leomagamoraes.github.io/PokedexWeb](https://leomagamoraes.github.io/PokedexWeb/)  
+- 🔴 Interactive Pokédex in **plain HTML, CSS, and JavaScript** (no frameworks), powered by the **PokeAPI**  
+- 🔎 All 1025 Pokémon with live search, generation and type filters, favorites, and caught lists  
+- ⚔️ Side-by-side comparison of up to 6 Pokémon, team building, and a battle simulator using the type effectiveness chart  
+- 💾 Local cache, light/dark theme, responsive layout, and keyboard navigation  
+- ✅ Tests with **Vitest**, linting with **ESLint**, and deployment to **GitHub Pages** via **GitHub Actions**  
 
 ---
 
